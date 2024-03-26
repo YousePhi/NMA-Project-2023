@@ -1,7 +1,7 @@
 # NMA-Project-2023
 Nuromatch Academy Project
 
-We conduct an analysis on the data-set provided by Steve Laquitaine article.
+We conducted an analysis on the data-set provided by Steve Laquitaine article.
 
 
 References
