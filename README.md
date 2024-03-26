@@ -3,6 +3,15 @@ Nuromatch Academy Project
 
 We conducted an analysis on the data-set provided by Steve Laquitaine article.
 
+The code snippet includes data visualization, data analysis, temporal dynamics analysis, and predictive modeling.
+
+Data visualization: Plotting the sequence of prior runs for each subject.
+
+Data analysis: Estimating translation lapses by calculating mean and standard deviation of errors in motion direction estimation for each subject.
+
+Temporal dynamics analysis: Plotting the variance of choices over time and performing statistical tests.
+
+Predictive modeling: Training a logistic regression model to predict choices based on motion coherence, motion direction, reaction time, and estimates degree. Evaluation of model accuracy on training and testing data.
 
 References
 
