@@ -14,5 +14,4 @@ Temporal dynamics analysis: Plotting the variance of choices over time and perfo
 Predictive modeling: Training a logistic regression model to predict choices based on motion coherence, motion direction, reaction time, and estimates degree. Evaluation of model accuracy on training and testing data.
 
 References
-
 [1] Laquitaine, Steeve and Gardner, Justin, A Switching Observer for Human Perceptual Estimation (2018). Available at SSRN: https://ssrn.com/abstract=3155505 or http://dx.doi.org/10.2139/ssrn.3155505
